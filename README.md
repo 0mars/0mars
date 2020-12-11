@@ -4,11 +4,11 @@ I'm Omar, a socialpreneur, an open-source enthusiast, and also a synthosiast who
 
 I enjoy hardware hacking, synth DIY, thinking about and making software, experimenting with instruments!
 
-- 🔭 I’m currently working on 
+- I’m currently working on 
 
  The Bookla Foundation
 
-- 📫 How to reach me: 
+- How to reach me: 
 
  omars@php.net
 
