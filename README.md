@@ -26,6 +26,9 @@ I enjoy hardware hacking, synth DIY, thinking about and making software, experim
 
 1. https://opencollective.com/pecl-solr-extension
 
+---
+[![0mars' github stats](https://github-readme-stats.vercel.app/api?username=0mars)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **0mars/0mars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
