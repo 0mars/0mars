@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hi
 
 I'm Omar, a socialpreneur, an open-source enthusiast, and also a synthosiast who is interested in making knowledge available for everyone for free!
 
-I enjoy hardware hacking, synth DIY, thinking about and making software
+I enjoy hardware hacking, synth DIY, thinking about and making software, experimenting with instruments!
 
 - 🔭 I’m currently working on 
--- The Bookla Foundation
+
+ The Bookla Foundation
 
 - 📫 How to reach me: 
--- omars@php.net
+
+ omars@php.net
 
 ## Open source project
 
