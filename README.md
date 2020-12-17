@@ -15,7 +15,7 @@ I enjoy hardware hacking, synth DIY, thinking about and making software, experim
 ## Open source project
 
 1. [php-ext-solr](https://pecl.php.net/package/solr)
-2. [Toute ODM](https://github.com/eshta/toute)
+2. [Toute ODM](https://github.com/bookla-foundation/toute)
 
 ## Organizations
 
